@@ -11,14 +11,14 @@ Tutorial-tehtävät nimetään tehtävän mukaan, esim. teht1.html ja palautetaa
 
 
 ## Sisältö ja tehtävät
-1. Tehtävä: HTML tutorial
+1. **Tehtävä: HTML tutorial**
   * Katso tutorial: https://youtu.be/UB1O30fR-EE
   * Tee HTML-sivu videon ohjeiden mukaisesti.
   * Palauta GitHubiin Tutorial -kansioon.  
-2. Tehtävä: Projektin HTML 
+2. **Tehtävä: Projektin HTML** 
   * Aloita koko jakson kestävä, Websovelluksena toteutettu, Yhteystieto-projekti tekemällä kuvan mukainen HTML-sivu. Nimeä se index.html
 
-  
+
 
 
 
