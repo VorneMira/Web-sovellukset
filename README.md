@@ -7,7 +7,7 @@ Tee GitHubiin repositorio nimeltä Web-sovellukset ja sen alle kaksi kansiota:
   * Projekti
 
 
-Tutorial-tehtävät nimetään tehtävän mukaan, esim. teht1.html ja palautetaan GitHubiin Tutorial-tehtävät kansioon. Projektia on koko jakson ajan laajentuva tehtävä, jonka seuraava versio voidaan tallentaa edellisen päälle.
+Tutorial-tehtävät nimetään tehtävän mukaan, esim. teht1.html ja palautetaan GitHubiin Tutorial-tehtävät kansioon. Projektia on koko jakson ajan laajentuva tehtävä, jonka seuraava versio voidaan tallentaa aina edellisen päälle.
 
 
 ## Sisältö ja tehtävät
@@ -16,21 +16,36 @@ Tutorial-tehtävät nimetään tehtävän mukaan, esim. teht1.html ja palautetaa
   * Tee HTML-sivu videon ohjeiden mukaisesti.
   * Palauta GitHubiin Tutorial -kansioon.  
 2. **Tehtävä: Projektin HTML** 
-  * Aloita koko jakson kestävä, Websovelluksena toteutettu, Yhteystieto-projekti tekemällä kuvan mukainen HTML-sivu. Nimeä se index.html
+  * Aloita koko jakson kestävä, Websovelluksena toteutettu, Yhteystieto-projekti tekemällä kuvan mukainen HTML-sivu. 
+  * Nimeä HTML-sivu nimellä index.html ja palauta repositoriosi Projekti-kansioon.
 
 ![HTML](HTML.png)
 
 
+3. **Tehtävä: CSS tutorial**
+  * Katso tutorial: https://youtu.be/yfoY53QXEnI
+  * Tee videon tyylitiedostoharjoitus.
+  * Palauta GitHubiin Tutorial -kansioon.
+4. **Tehtävä: Projektin CSS** 
+  * Tee projektisi index.html tiedostoon ulkoinen tyylitiedosto. Muokkaa:
+    * Taustakuva
+    * Otsikoiden fontti, väri ja koko. Keskitä otsikot keskelle sivua. 
+    * Leipätekstin fontti tyyli ja koko.
+    * Tee listan bulleteista kuvia.
+    * Tee jokaisesta sivun osiosta div, jossa on pyöreät kulmat ja taustakuvasta erottuva taustaväri: Phonebook, Add a new, Numbers
+    * Muokka lomakkeiden kenttien reunojen väriä.
+    * Tee nappuloista mustia valkoisella tekstillä.
+    * Palauta GitHubiin Projekti-kansioon.
 
-2. CSS
-video
-videon CSS
-projektin CSS
-
-3. BOOTSTRAP
-video
-videon Bootstrap
-projektin bootstrap
+5. **Tehtävä: BOOTSTRAP**
+  * Katso tutorial: https://youtu.be/yfoY53QXEnI
+  * Tee videon Bootstrap-harjoitus.
+  * Palauta GitHubiin Tutorial -kansioon.
+6. **Tehtävä: Projektin Bootstrap** 
+  * Tee projektisi index.html sivun ylälaitaan Bootstrap navbar
+    * Lisää vasempaan reunaan logo
+    * Lisää erilliset linkit jokaiseen tutorial-tehtävään
+    * Tee navbarista collabsible
 
 4. JAVASCRIPT
 video
@@ -64,6 +79,9 @@ Tee projektiin filter -toiminnallisuus.
 11. Projekti
 Tee projektiin Notification -toiminnallisuus
 - Yhteystieto lisätty
+- Liian lyhyt nimi
+- Liian lyhyt puhelinnumero
+- Nimi tai numero puuttuu
 - Yhteystieto poistettu 
 - Errorit
 - Notification poistuu sivulta 5 sek. kuluttua.
