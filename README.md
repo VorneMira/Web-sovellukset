@@ -30,14 +30,14 @@ Projekti on koko jakson ajan laajentuva tehtävä, jonka seuraava versio voidaan
   * Palauta GitHubiin /Tutorial/teht3/ -kansioon.
 4. **Tehtävä: Projektin CSS** 
   * Tee projektisi index.html tiedostoon ulkoinen tyylitiedosto. Muokkaa:
-    * Taustakuva
-    * Otsikoiden fontti, väri ja koko. Keskitä otsikot keskelle sivua. 
-    * Leipätekstin fontti tyyli ja koko.
-    * Tee listan bulleteista kuvia.
-    * Tee jokaisesta sivun osiosta div, jossa on pyöreät kulmat ja taustakuvasta erottuva taustaväri: Phonebook, Add a new, Numbers
-    * Muokka lomakkeiden kenttien reunojen väriä.
-    * Tee nappuloista mustia valkoisella tekstillä.
-    * Palauta GitHubiin Projekti-kansioon.
+  * Taustakuva
+  * Otsikoiden fontti, väri ja koko. Keskitä otsikot keskelle sivua. 
+  * Leipätekstin fontti tyyli ja koko.
+  * Tee listan bulleteista kuvia.
+  * Tee jokaisesta sivun osiosta div, jossa on pyöreät kulmat ja taustakuvasta erottuva taustaväri: Phonebook, Add a new, Numbers
+  * Muokka lomakkeiden kenttien reunojen väriä.
+  * Tee nappuloista mustia valkoisella tekstillä.
+  * Palauta GitHubiin Projekti-kansioon.
 
 5. **Tehtävä: BOOTSTRAP**
   * Katso tutorial: https://youtu.be/5GcQtLDGXy8
@@ -45,9 +45,9 @@ Projekti on koko jakson ajan laajentuva tehtävä, jonka seuraava versio voidaan
   * Palauta GitHubiin /Tutorial/teht5/ -kansioon.
 6. **Tehtävä: Projektin Bootstrap** 
   * Tee projektisi index.html sivun ylälaitaan Bootstrap navbar
-    * Lisää vasempaan reunaan logo
-    * Lisää erilliset linkit jokaiseen tutorial-tehtävään
-    * Tee navbarista collabsible
+  * Lisää vasempaan reunaan logo
+  * Lisää erilliset linkit jokaiseen tutorial-tehtävään
+  * Tee navbarista collabsible
 
 7. **Tehtävä: JAVASCRIPT**
   * Katso tutorial: https://youtu.be/hdI2bqOjy3c
@@ -56,7 +56,7 @@ Projekti on koko jakson ajan laajentuva tehtävä, jonka seuraava versio voidaan
   * EI PROJEKTITEHTÄVÄÄ
 
 8. **Tehtävä: JSON**
-* Katso tutorial: https://youtu.be/wI1CWzNtE-M
+  * Katso tutorial: https://youtu.be/wI1CWzNtE-M
   * Tee videon JSON-harjoitus.
   * Palauta GitHubiin /Tutorial/teht8/ -kansioon.
   * EI PROJEKTITEHTÄVÄÄ
@@ -65,7 +65,7 @@ Projekti on koko jakson ajan laajentuva tehtävä, jonka seuraava versio voidaan
   * Katso tutorial: https://youtu.be/sBws8MSXN7A
   * Tee videon React-harjoitus.
   * Palauta GitHubiin /Tutorial/teht9/ -kansioon.
-6. **Tehtävä: Projektin React** 
+10. **Tehtävä: Projektin React** 
     
 
 7. NODE.JS
