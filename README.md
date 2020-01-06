@@ -18,7 +18,7 @@ Tutorial-tehtävät nimetään tehtävän mukaan, esim. teht1.html ja palautetaa
 2. **Tehtävä: Projektin HTML** 
   * Aloita koko jakson kestävä, Websovelluksena toteutettu, Yhteystieto-projekti tekemällä kuvan mukainen HTML-sivu. Nimeä se index.html
 
-
+![HTML](HTML.png)
 
 
 
