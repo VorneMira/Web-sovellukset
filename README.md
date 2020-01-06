@@ -9,7 +9,7 @@ Tee GitHubiin repositorio nimeltä Web-sovellukset ja sen alle kaksi kansiota:
 
 Tutorial-tehtävät nimetään tehtävän mukaan, esim. teht1.html ja palautetaan GitHubiin tehtävän mukaan nimettyyn kansioon, esim. /Tutorial/Teht1/teht1.html. 
   
-Projekti on koko jakson ajan laajentuva tehtävä, jonka seuraava versio voidaan tallentaa aina edellisen päälle.
+Projekti on koko jakson ajan laajentuva tehtävä, jonka seuraava versio voidaan tallentaa aina edellisen päälle. Projektia tehdään siis iteratiivisesti.
 
 
 ## Sisältö ja tehtävät
@@ -43,11 +43,7 @@ Projekti on koko jakson ajan laajentuva tehtävä, jonka seuraava versio voidaan
   * Katso tutorial: https://youtu.be/5GcQtLDGXy8
   * Tee videon Bootstrap-harjoitus.
   * Palauta GitHubiin /Tutorial/teht5/ -kansioon.
-6. **Tehtävä: Projektin Bootstrap** 
-  * Tee projektisi index.html sivun ylälaitaan Bootstrap navbar
-  * Lisää vasempaan reunaan logo
-  * Lisää erilliset linkit jokaiseen tutorial-tehtävään
-  * Tee navbarista collabsible
+  * EI PROJEKTITEHTÄVÄÄ
 
 7. **Tehtävä: JAVASCRIPT**
   * Katso tutorial: https://youtu.be/hdI2bqOjy3c
@@ -61,40 +57,40 @@ Projekti on koko jakson ajan laajentuva tehtävä, jonka seuraava versio voidaan
   * Palauta GitHubiin /Tutorial/teht8/ -kansioon.
   * EI PROJEKTITEHTÄVÄÄ
 
-9. **Tehtävä: REACT**
+9. **Tehtävä: REACT JS**
   * Katso tutorial: https://youtu.be/sBws8MSXN7A
-  * Tee videon React-harjoitus.
+  * Tee videon React JS-harjoitus.
   * Palauta GitHubiin /Tutorial/teht9/ -kansioon.
-10. **Tehtävä: Projektin React** 
+10. **Tehtävä: Projektin React JS** 
+  * Tee projektisi frontend Reactilla 
     
+11. **Tehtävä: NODE.JS**
+  * Katso tutorial: https://youtu.be/sBws8MSXN7A
+  * Tee videon Node.js-harjoitus.
+  * Palauta GitHubiin /Tutorial/teht10/ -kansioon.
+12. **Tehtävä: Projektin React JS** 
+  * Tee
 
-7. NODE.JS
-video
-videon Node
-projektin node
+13. **Projekti**
+  * Tee projektiin lisää -toiminnallisuus, eli lomakeelta voi lisätä lisää yhteystietoja.
 
-8. Projekti
-Tee projektiin lisää -toiminnallisuus.
-Puhelinluettelon yhteystietojen jälkeen lomake, josta voit lisätä lisää yhteystietoja.
+14. **Projekti**
+  * Tee projektiin poista -toiminnalisuus.
 
-9. Projekti
-Tee projektiin poista -toiminnalisuus.
-Puhelinluettelon jokaisen tulostettavan yhteystiedon perään Poista -nappula.
+15. **Projekti**
+  * Tee projektiin filter -toiminnallisuus.
 
-10. Projekti
-Tee projektiin filter -toiminnallisuus.
+16. **Projekti**
+  * Tee projektiin Notification -toiminnallisuus
+    * Yhteystieto lisätty
+    * Liian lyhyt nimi
+    * Liian lyhyt puhelinnumero
+    * Nimi tai numero puuttuu
+    * Yhteystieto poistettu 
+    * Errorit
+    * Notification poistuu sivulta 5 sek. kuluttua.
 
-11. Projekti
-Tee projektiin Notification -toiminnallisuus
-- Yhteystieto lisätty
-- Liian lyhyt nimi
-- Liian lyhyt puhelinnumero
-- Nimi tai numero puuttuu
-- Yhteystieto poistettu 
-- Errorit
-- Notification poistuu sivulta 5 sek. kuluttua.
-
-12. Projekti
-- Toggle -toiminnallisuus
-- Näytä / piilota uuden yhteystiedon lisäyslomake nappia painamalla.
+17. **Projekti**
+  * Toggle -toiminnallisuus
+    * Näytä / piilota uuden yhteystiedon lisäyslomake nappia painamalla.
 
