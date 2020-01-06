@@ -23,7 +23,6 @@ Projekti on koko jakson ajan laajentuva tehtävä, jonka seuraava versio voidaan
 
 ![HTML](HTML.png)
 
-
 3. **Tehtävä: CSS tutorial**
   * Katso tutorial: https://youtu.be/yfoY53QXEnI
   * Tee videon tyylitiedostoharjoitus.
@@ -62,14 +61,14 @@ Projekti on koko jakson ajan laajentuva tehtävä, jonka seuraava versio voidaan
   * Tee videon React JS-harjoitus.
   * Palauta GitHubiin /Tutorial/teht9/ -kansioon.
 10. **Tehtävä: Projektin React JS** 
-  * Tee projektisi frontend Reactilla 
+  * Tee projektisi frontend React JS:lla 
     
 11. **Tehtävä: NODE.JS**
-  * Katso tutorial: https://youtu.be/sBws8MSXN7A
+  * Katso tutorial: https://youtu.be/fBNz5xF-Kx4
   * Tee videon Node.js-harjoitus.
-  * Palauta GitHubiin /Tutorial/teht10/ -kansioon.
-12. **Tehtävä: Projektin React JS** 
-  * Tee
+  * Palauta GitHubiin /Tutorial/teht11/ -kansioon.
+12. **Tehtävä: Projektin Node.js** 
+  * Tee projektisi backend Node.js:llä
 
 13. **Projekti**
   * Tee projektiin lisää -toiminnallisuus, eli lomakeelta voi lisätä lisää yhteystietoja.
@@ -87,10 +86,12 @@ Projekti on koko jakson ajan laajentuva tehtävä, jonka seuraava versio voidaan
     * Liian lyhyt puhelinnumero
     * Nimi tai numero puuttuu
     * Yhteystieto poistettu 
-    * Errorit
     * Notification poistuu sivulta 5 sek. kuluttua.
 
+    ![ERROR](error.png)
+    ![ADDED](added.png)
+
 17. **Projekti**
-  * Toggle -toiminnallisuus
+    * Toggle -toiminnallisuus
     * Näytä / piilota uuden yhteystiedon lisäyslomake nappia painamalla.
 
