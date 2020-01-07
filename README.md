@@ -61,14 +61,14 @@ Projekti on koko jakson ajan laajentuva tehtävä, jonka seuraava versio voidaan
   * Tee videon React JS-harjoitus.
   * Palauta GitHubiin /Tutorial/teht9/ -kansioon.
 10. **Tehtävä: Projektin React JS** 
-  * Tee projektisi frontend React JS:lla 
+  * Tee projektisi frontend React JS:lla: kovakoodatulla datalla, ei vielä toiminnallisuutta.
     
 11. **Tehtävä: NODE.JS**
   * Katso tutorial: https://youtu.be/fBNz5xF-Kx4
   * Tee videon Node.js-harjoitus.
   * Palauta GitHubiin /Tutorial/teht11/ -kansioon.
 12. **Tehtävä: Projektin Node.js** 
-  * Tee projektisi backend Node.js:llä
+  * Tee projektisi backend Node.js:llä.
 
 13. **Projekti**
   * Tee projektiin lisää -toiminnallisuus, eli lomakeelta voi lisätä lisää yhteystietoja.
