@@ -94,4 +94,4 @@ Projekti on koko jakson ajan laajentuva tehtävä, jonka seuraava versio voidaan
 17. **Projekti**
     * Toggle -toiminnallisuus
     * Näytä / piilota uuden yhteystiedon lisäyslomake nappia painamalla.
-
+sdjkhfksjfhksjfhsjkd
